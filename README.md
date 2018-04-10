@@ -1,6 +1,6 @@
 # Population-pyramid
 
-## @kjhealy
+## From @kjhealy
 
 Blog post: https://kieranhealy.org/blog/archives/2018/04/08/animated-population-pyramids-in-r/
 
